@@ -82,7 +82,7 @@
 						<path>
 							<groupId>org.projectlombok</groupId>
 							<artifactId>lombok</artifactId>
-							<version>1.18.26</version>
+							<version>1.18.30</version> <!--Updated the version number form 1.18.26 to 1.18.30 to fix compile time errors-->
 						</path>
 						<path>
 							<groupId>org.mapstruct</groupId>
